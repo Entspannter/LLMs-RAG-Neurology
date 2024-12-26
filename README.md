@@ -55,7 +55,7 @@ Activate the required environment before running:
 Make sure to set your own API keys in the .env in order for the notebooks to work. 
 
 ## Dataset
-The dataset of neurological questions, answers, and ratings is available as Excel sheet in the [Results folder](Results/Results/All_Answers_Full_DF_annotated_all.xlsx).
+The dataset of neurological questions, answers, and ratings is available as Excel sheet in the [Results folder](Results/All_Answers_Full_DF_annotated_all.xlsx).
 
 ## Data Preparation
 For the exact RAG setup see the original paper. 
