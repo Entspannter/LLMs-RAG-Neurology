@@ -1,0 +1,18 @@
+documents_dir: ./documents/SleepAutism
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: sleep_autism
+
+questions:
+  - According to current guidelines, what should be the first-line treatment approach for treating sleep disorders in children or adolescents with autism spectrum disorder?
+  - According to current guidelines, if behavioral treatment strategies have been unsuccessful for the treatment of sleep disorders in children or adolescents with autism spectrum disorder, what should be the next treatment approach?
+  - According to current guidelines, what should be an initial dose of melatonin for the treatment of sleep disorders in children or adolescents with autism spectrum disorder?
+  - According to current guidelines, is there any evidence for the use of weighted blankets in the treatment of sleep disorders in children or adolescents with autism spectrum disorder?
+  - According to current guidelines, what should clinicians counsel children or adolescents with autism spectrum disorder and their families about the longterm safety data for melatonin for the treatment of sleep disorders?
+  - The parents of a 12-year-old boy with autism spectrum disorder bring him to his pediatrician, concerned about his ongoing sleep problems. They ask about the best approach to help him sleep better. What should the pediatrician recommend as the initial treatment strategy, according to current guidelines?
+  - A 10-year-old child with autism spectrum disorder is brought to the clinic by his parents, who report that despite trying various behavioral strategies, his sleep difficulties persist. They are seeking further options to help their child sleep better. What treatment approach should the physician consider next, according to current guidelines?
+  - The parents of an 11-year-old child with autism spectrum disorder consult their pediatrician regarding their child's ongoing sleep difficulties. After unsuccessful attempts with behavioral strategies, the physician suggests melatonin might be an option. The parents ask how they should begin administering it and how much would be appropriate at first. What guidance should the physician provide to the parents, considering current best practices for melatonin use?
+  - The parents of a 9-year-old child with autism spectrum disorder bring him to his pediatrician, concerned about his ongoing sleep issues. They mention that they are considering using a weighted blanket, having heard that it may help him sleep better. What should the pediatrician advise regarding the use of weighted blankets to address sleep disturbances, based on current guidelines?
+  - The parents of a 13-year-old adolescent with autism spectrum disorder are discussing treatment options for their child’s sleep disturbances with the pediatrician. The pediatrician suggests melatonin as a possible option, but the parents express concerns about the safety of using it over a long period. What should the pediatrician counsel the parents regarding melatonin’s long-term safety profile and potential side effects, according to current guidelines?

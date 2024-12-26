@@ -1,0 +1,18 @@
+documents_dir: ./documents/MigraineInChildren
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: migraine
+
+questions:
+  - According to current guidelines, what are recommended first-line treatment options for acute pain in adolescents with migraine?
+  - According to current guidelines, in adolescents with migraine, should another triptane be offered if one class of triptans fails to provide proper pain relief?
+  - According to current guidelines, should a clinician counsel that for an adolescent suffering from migraine taking their triptane during a typical aura is safe or not?
+  - According to current guidelines, when should opioids be considered for migraine treatment in adolescents?
+  - According to current guidelines and regarding medication overuse headache in adolescents with migraine, what would be the maximal recommended number of days per month for ibuprofen and acetaminophen?
+  - A 15-year-old adolescent presents to the clinic with frequent, severe migraines that significantly disrupt daily activities, including school and social engagements. The patient is seeking effective options for acute pain relief during migraine attacks. The physician is considering the best first-line treatment options. During the discussion, the patient's mother mentions being hesitant about using strong medications, preferring options with a proven track record for adolescents. What should the physician recommend as appropriate treatment choices for acute migraine pain, following current guidelines?
+  - A 16-year-old adolescent patient with frequent migraines returns to her neurologist for follow-up. She was previously prescribed sumatriptan for acute migraine attacks, but reports that it hasn't provided adequate relief. The patient and her parents express frustration and are unsure about continuing with similar medications. The neurologist considers how to adjust her treatment plan based on the patient's lack of response to the initial therapy. What should the neurologist recommend regarding further options for migraine management, according to current guidelines?
+  - A 17-year-old adolescent experiencing migraines with typical aura asks whether it is safe to take her prescribed triptan during the aura phase instead of waiting for the headache to begin. How should the clinician address this question, based on current guidelines, while providing appropriate advice regarding timing and effectiveness?
+  - A 16-year-old adolescent with chronic migraines, who has not found relief with several first-line treatments, presents to their neurologist. The parents, feeling increasingly desperate for a solution, ask whether opioids might be an option for pain relief. How should the neurologist respond, according to current guidelines?
+  - A 15-year-old adolescent with recurrent migraines visits her neurologist for a follow-up consultation. During the discussion, it becomes evident that she has been relying on ibuprofen and acetaminophen frequently to manage her migraine pain. The neurologist wants to ensure that her treatment plan remains both safe and effective. What guidance should the neurologist provide regarding the appropriate frequency of using these medications, according to current recommendations?

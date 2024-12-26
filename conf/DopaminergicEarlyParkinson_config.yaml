@@ -1,0 +1,18 @@
+documents_dir: ./documents/DopaminergicEarlyParkinson
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: dopaminergic_early_parkinson
+
+questions:
+  - According to current guidelines, in patients with early Parkinson's Disease who seek treatment for motor symptoms, what should clinicians recommend as the initial preferential dopaminergic therapy?
+  - According to current guidelines, are there any recommendations for age groups where the use of dopamine agonists is preferred over levodopa in the treatment of early Parkinson's Disease?
+  - Are there any recommendations regarding comorbidities that would make the use of dopamine agonists contraindicated in the treatment of early Parkinson's Disease?
+  - According to current guidelines, what is the recommended approach regarding the initial dosing of dopamine agonists or levodopa for patients with early Parkinson's disease, particularly concerning dose escalation?
+  - According to current guidelines, if dopamine agonists need to be discontinued in patients with early Parkinson's Disease, should the treatment be withdrawn or when possible gradually decreased?
+  - A 60-year-old male patient recently diagnosed with early Parkinson's disease presents to his neurologist seeking treatment for his motor symptoms, which include tremors and bradykinesia. He asks about the best approach for managing these symptoms. What should the clinician recommend as the preferred initial dopaminergic therapy for motor symptoms in early Parkinson's disease, according to current guidelines?
+  - A 60-year-old male patient with early Parkinson's disease is discussing treatment options with his neurologist. He is curious about whether his age should influence the choice between starting with levodopa or a dopamine agonist. Are there any age-specific recommendations that would support the use of dopamine agonists over levodopa for treating early Parkinson's disease, according to current guidelines? Would they generally prefered in a certain age group?
+  - A 62-year-old male patient has recently been diagnosed with early-stage Parkinson's disease. He also has a history of cognitive impairment and reports experiencing occasional hallucinations. During a discussion about treatment options, the neurologist is considering whether dopamine agonists might be an appropriate choice. What comorbidities or patient characteristics would make the use of dopamine agonists contraindicated in the treatment of early Parkinson's disease, based on current guidelines?
+  - A 63-year-old male patient with early Parkinson's disease presents to his neurologist with concerns about his motor symptoms, including tremors and rigidity. The neurologist decides to initiate dopaminergic therapy to improve his quality of life. During the conversation, the patient expresses concern about potential side effects such as dyskinesia and asks how the medication will be managed to minimize these risks over time. What should the neurologist consider when determining the initial dose and adjusting the medication for this patient?
+  - A 64-year-old male patient with early Parkinson's disease has been on dopamine agonist therapy for over a year but has now developed impulse control issues and excessive daytime sleepiness. The neurologist decides to discontinue the dopamine agonist therapy. What is the appropriate approach for discontinuing the medication in this situation?

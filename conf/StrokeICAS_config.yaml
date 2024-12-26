@@ -1,0 +1,18 @@
+documents_dir: ./documents/StrokeInLargeVessel
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: stroke_large_vessel
+
+questions:
+  - According to current guidelines, is anticoagulation using for example warfarin a good option for patients with symptomatic intracranial atherosclerotic arterial stenosis?
+  - According to current guidelines, which patients with a history of symptomatic intracranial atherosclerotic arterial stenosis should clopidogrel and cilostazol be added to aspirin?
+  - According to current guidelines, what is the LDL goal in patients with symptomatic intracranial atherosclerotic arterial stenosis?
+  - According to current guidelines, what is the longterm blood pressure target in patients with symptomatic intracranial atherosclerotic arterial stenosis?
+  - According to current guidelines, should a direct bypass treatment be recommended to patients with symptomatic intracranial atherosclerotic arterial stenosis?
+  - A 63-year-old male patient presents with symptomatic intracranial arterial stenosis confirmed on imaging. The neurologist is considering treatment options to prevent recurrent ischemic events. The patient has heard about warfarin as an anticoagulant therapy and wonders if it could be an effective option for his condition. How should the neurologist address the patient’s inquiry, and what does current guidance suggest about the role of anticoagulation compared to antiplatelet therapy in managing intracranial atherosclerotic stenosis?
+  - A 68-year-old male patient with a history of symptomatic intracranial arterial stenosis presents for follow-up. Imaging reveals a 75% stenosis in the middle cerebral artery, and he is currently taking aspirin as part of his stroke prevention strategy. The neurologist is considering whether additional treatment should be introduced to better manage his condition and reduce the risk of further events. How should the neurologist approach this decision, considering the patient's current regimen, the severity of the stenosis, and current guidelines?
+  - A 65-year-old female patient presents with symptomatic intracranial arterial stenosis and wants to understand the goals of her treatment plan, particularly with respect to cholesterol management. During the discussion, she asks what her target cholesterol levels should be to help reduce her risk of future strokes. How should the neurologist guide her, in line with current guidelines?
+  - A 62-year-old female patient with symptomatic intracranial atherosclerotic stenosis visits her neurologist to discuss her ongoing management plan. She is interested in understanding how her blood pressure should be controlled to reduce her risk of future strokes. What should the neurologist recommend as a target blood pressure for this patient, according to current guidelines?
+  - A 59-year-old male patient with symptomatic intracranial arterial stenosis returns for follow-up. He has been reading about different interventions that could potentially improve outcomes in patients with narrowed vessels in the brain. During the consultation, he inquires about whether there are any surgical options that could enhance blood flow and prevent further events. How should the neurologist approach the patient's questions, considering current recommendations and treatment strategies?

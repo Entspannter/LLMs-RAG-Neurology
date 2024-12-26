@@ -1,0 +1,22 @@
+documents_dir: ./documents/AntiseizureWithdrawal
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: epilepsy_withdrawal
+
+questions:
+  - According to current guidelines, is there statistical evidence to support the discontinuation of antiseizure medications (ASMs) in an adult epilepsy patient who has been seizure-free for more than two years?
+  - According to current guidelines, is there evidence for EEG or imaging to support the decision to discontinue antiseizure medications (ASMs) in adult epilepsy patients?
+  - According to current guidelines, is there reliable data on the risk of seizure recurrence with antiseizure medications (ASMs) withdrawal in patients who have had epilepsy surgery and are seizure free?
+  - According to current guidelines, is there evidence for EEG to support the decision to discontinue antiseizure medications (ASMs) in children with epilepsy that have been seizure-free for two years?
+  - According to current guidelines, is there is strong evidence regarding the relationship between antiseizure medications (ASMs) withdrawal and changes in the risk of mortality and status epilepticus in patients with epilepsy that have been seizure free for several years?
+  - A 34-year old man is on antiseizure medication and has been seizure free for 7 years. He is discussing with his doctor whether to stop his antiseizure medication or not. According to current guidelines, is there evidence that an EEG can inform this decision?
+  - A 9-year-old girl has been treated for seizures for 4 years and her parents want to discuss the withdrawal of antiseizure medication with their neurologist. Is there evidence that an EEG can inform this decision?
+  - A 57-year-old patient with epilepsy has been seizure-free on levetiracetam for several years. He wonders whether there is proof, according to current guidelines, that withdrawing his medication puts him at risk for earlier death in this scenario.
+  - A 26-year-old female patient with a history of generalized seizures is considering pausing her medication after several years of being seizure-free. She wonders whether new imaging might support this decision, according to current guidelines. Previous imaging was without findings.
+  - A 33-year-old male had several generalized seizures in his early twenties and has been seizure-free for seven years while undergoing treatment with lamotrigine. He wonders whether there are common recommendations (e.g., in a guideline) to support continuation or discontinuation of his medication.
+
+
+
+

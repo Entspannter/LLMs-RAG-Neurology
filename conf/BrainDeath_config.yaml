@@ -1,0 +1,18 @@
+documents_dir: ./documents/BrainDeath
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: brain_death
+
+questions:
+  - According to current guidelines, can brain death be diagnosed in patients younger than 37 week gestational age?
+  - According to current guidelines, a provider's patient is spontaneously breathing but shows no other sign of brainstem function. Can he or she proceed to diagnose brain death in this patient?
+  - According to current AAN guidelines, what is the minimum core temperature that should be reached before a patient can be diagnosed with brain death?
+  - According to current guidelines, should EEGs, AEPs, or SEPs be used as ancillary tests to assist with the diagnosis of Brain Death?
+  - According to current guidelines, should CT angiography, MRI angiography or conventional 4-vessel catheter angiography be used as ancillary tests to assist with the diagnosis of brain death?
+  - A preterm infant, born at 34 weeks gestational age, suffered a severe hypoxic-ischemic event resulting in significant neurological compromise. The medical team is considering the evaluation for brain death. Given the infant's gestational age, the neonatologist must determine the appropriate method for assessing brain death. According to current guidelines, how should brain death be evaluated in this patient?
+  - A 55-year-old male patient is admitted to the intensive care unit following a severe traumatic brain injury. He is currently showing no signs of brainstem function other than spontaneous breathing, and remains in a deeply comatose state. The intensivist on call is considering the diagnosis of brain death and needs to determine the appropriate steps. According to current guidelines, how should the physician proceed with assessing brain death in this patient?
+  - A 48-year-old female patient is being evaluated for brain death after suffering a massive intracerebral hemorrhage. During the assessment, it is noted that her core temperature is 34°C. What steps should the physician take regarding the patient's temperature to proceed with the brain death evaluation, according to current AAN guidelines?
+  - A 60-year-old male patient is in a deep coma following a catastrophic brain injury. The clinical team is considering the diagnosis of brain death. The initial clinical examination indicates the absence of all brainstem reflexes, but they wish to confirm this diagnosis with additional testing. The neurologist is evaluating the use of ancillary tests, such as EEGs, auditory evoked potentials (AEPs), or somatosensory evoked potentials (SEPs). According to current guidelines, how should these tests be utilized to assist with the diagnosis of brain death?
+  - A 54-year-old male patient is in the ICU after a severe traumatic brain injury and is being evaluated for brain death. Clinical examination shows an absence of brainstem reflexes, and the attending physician considers using imaging as an ancillary test to confirm the diagnosis. The options include CT angiography, MRI angiography, or conventional 4-vessel catheter angiography. According to current guidelines, how should these imaging modalities be utilized to assist with the diagnosis of brain death?

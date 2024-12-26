@@ -1,0 +1,18 @@
+documents_dir: ./documents/Borreliosis
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: borreliosis
+
+questions:
+  - According to current guidelines, should asymptomatic patients be tested for borrelia burgorferi exposure following a tick bite?
+  - According to current guidelines, are laboratory tests recommended in a patient with a history of a recent tick bite in a Lyme disease endemic area and currently presenting with erythema migrans?
+  - According to current guidelines, what is the recommended treatment for a patient with a history of a recent tick bite in a Lyme disease endemic area and currently presenting with erythema migrans?
+  - According to current guidelines, in a patient with suspected neuroborreliosis, should a bacterial culture of cerebrospinal fluid be performed?
+  - In a patient with suspected neuroborreliosis, should cerebrospinal fluid serology be carried out over serum serology?
+  - A 35-year-old male presents to his general practitioner after a recent tick bite. He is currently asymptomatic but is concerned about the potential risk of Lyme disease. He wonders if he should be tested for Borrelia burgdorferi exposure, given that he has not developed any symptoms. What would be a suitable apporach in accordance with current guidelines?
+  - A 40-year-old female presents to her physician after noticing a red, expanding rash at the site of a recent tick bite. She recalls that the tick bite occurred about two weeks ago while hiking in a Lyme disease endemic area. The rash is consistent with erythema migrans, but she has no other symptoms. Should laboratory tests be conducted to confirm Lyme disease diagnosis according to current guidelines?
+  - A 45-year-old male patient presents to his primary care physician with an expanding red rash consistent with erythema migrans, following a recent tick bite sustained while hiking in a Lyme disease endemic area. He is otherwise asymptomatic but is concerned about the appropriate course of action. What treatment approach should be taken based on current guidelines? What are second-line approaches?
+  - A 52-year-old male presents with symptoms suggestive of neuroborreliosis, including facial nerve palsy and headache. He reports a history of erythema migrans at the site of a tick bite approximately two months ago, which resolved without specific treatment. A lumbar puncture is performed to obtain cerebrospinal fluid for analysis. The neurologist considers different diagnostic tests to confirm the diagnosis. Should a bacterial culture of the cerebrospinal fluid be performed in this case, according to current guidelines for suspected neuroborreliosis?
+  - A 45-year-old male presents with symptoms suggestive of neuroborreliosis, including persistent headache and radicular pain. He reports having had erythema migrans at the site of a tick bite about three months ago, which resolved spontaneously. A lumbar puncture is planned to obtain cerebrospinal fluid for further analysis. The physician needs to decide on the most appropriate diagnostic test. Should cerebrospinal fluid serology be performed instead of serum serology in this case, according to current guidelines for suspected neuroborreliosis?

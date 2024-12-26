@@ -1,0 +1,18 @@
+documents_dir: ./documents/StrokeForamenOvale
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: stroke_foramen_ovale
+
+questions:
+  - According to current guidelines, in patients with stroke and a foramen ovale, is there a need to rule out other reasons of stroke before considering closing it?
+  - According to current guidelines, is there a clear recommendation for patients with a stroke, a foramen ovale and thrombophilia regarding the closure of the foramen ovale?
+  - According to current guidelines, is a baseline ECG strictly necessary for patients with a stroke and a foramen ovale before considering closure?
+  - According to current guidelines, do patients with a stroke and a foramen ovale, how should the shunt size be evaluated?
+  - According to current guidelines, in patients with a stroke and a foramen ovale, what are the age groups a closure is typically recommended for given this is the most likely cause of the stroke?
+  - A 55-year-old male patient who recently experienced a stroke is found to have a patent foramen ovale (PFO) on imaging. He is referred to a specialist to discuss the possibility of PFO closure. Before proceeding, what steps should the clinician take to ensure appropriate management in line with current guidelines?
+  - A 47-year-old female patient presents to her neurologist for follow-up after experiencing an ischemic stroke three months ago. During her evaluation, a patent foramen ovale (PFO) was discovered. The work-up included an MRI, which confirmed the ischemic stroke in the right parietal lobe. Additionally, several other findings emerged, including a normal carotid Doppler ultrasound, no atrial fibrillation on extended cardiac monitoring, and no evidence of large vessel disease. The MRI also revealed only minor, age-related white matter changes. Laboratory testing confirmed an underlying thrombophilia, and the patient has a history of an unprovoked deep vein thrombosis. She currently started long-term anticoagulation therapy. The patient also has mildly elevated liver enzymes, an unrelated incidental finding that her primary care physician is monitoring. During the consultation, the patient inquires whether closing the PFO might reduce her risk of future strokes, considering all her findings. How should the neurologist reason through these findings and weigh the decision regarding PFO closure, based on current guidelines?
+  - A 55-year-old male patient presents for a follow-up after an ischemic stroke. Further screening confirmed a patent foramen ovale (PFO), and the neurologist is considering closure. The patient has undergone multiple evaluations, but a baseline ECG has not yet been performed. He is eager to proceed with PFO closure. What is the importance of obtaining an ECG in this scenario, according to current guidelines?
+  - A 50-year-old male patient presents for evaluation after an ischemic stroke. A patent foramen ovale (PFO) was identified during the initial work-up. A transthoracic echocardiogram (TTE) was performed but did not fully assess the characteristics of the shunt. The neurologist is now considering further imaging to decide on the suitability of PFO closure. What steps should be taken to evaluate the shunt size and characteristics more comprehensively, according to current guidelines?
+  - A 57-year-old patient presents for follow-up after a recent ischemic stroke, during which a patent foramen ovale (PFO) was identified. No other stroke mechanism has been determined, and the patient is interested in exploring PFO closure. Given the patient's age, and considering whether the closure might also be appropriate for other age groups, how should the neurologist proceed with recommendations based on current guidelines?

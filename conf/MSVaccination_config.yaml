@@ -1,0 +1,18 @@
+documents_dir: ./documents/MSVaccination
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: ms_vaccination
+
+questions:
+  - According to recent guidelines, should patients with multiple sclerosis follow general local vaccination guidelines if no specific contraindications (such as immunomodulatory treatment) exist?
+  - According to current guidelines, are multiple sclerosis patients generally advised to get the yearly influenza vaccination?
+  - According to current guidelines, when and under which circumstances should vaccinations and immunizations be discussed with multiple sclerosis patients after diagnosis?
+  - According to current guidelines, is it generally recommended to vaccinate multiple sclerosis patients during a relapse?
+  - According to current guidelines, are there recommendations regarding live attenuated vaccines in multiple sclerosis patients that are undergoing immunomodulatory treatment?
+  - A 34-year-old female patient with multiple sclerosis asks her neurologist whether she needs any special considerations regarding vaccinations. What advice should the neurologist provide based on current guidelines?
+  - A 45-year-old male patient with multiple sclerosis visits his neurologist during flu season and asks if he should get the yearly flu shot. What should the neurologist advise, considering current guidelines?
+  - A 38-year-old female patient is recently diagnosed with multiple sclerosis. During her consultation, she expresses that she does not plan to begin any treatment at this time. She asks whether her condition impacts her need for vaccinations or immunizations. When and under what circumstances should the neurologist discuss vaccinations with her, considering her decision and based on current guidelines?
+  - A 40-year-old male patient with multiple sclerosis is currently experiencing a relapse and is due for his scheduled vaccination. He asks if it is safe to proceed with the vaccination during his relapse. How should the neurologist respond based on current guidelines?
+  - A 36-year-old patient with multiple sclerosis, currently undergoing therapy with dimethyl fumarate, is planning to travel to a region where yellow fever is endemic. They ask their neurologist whether they can receive the yellow fever vaccine before their trip. How should the neurologist approach this request?

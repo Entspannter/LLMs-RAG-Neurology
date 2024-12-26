@@ -1,0 +1,19 @@
+documents_dir: ./documents/EpilepsyInWOCBP
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: epilepsy_WOCBP
+
+questions:
+  - According to current guidelines, what antiseizure medication is most commonly linked to neural tube defects?
+  - According to current guidelines, should providers definitely switch an epilepsy patient that becomes pregnant from a medication with a known risk for the fetus to another antiseizure medication when the epilepsy is well-controlled under the medication?
+  - According to current guidelines, is phenobarbital a comparably safe choice in potentially pregnant women or does it have a known higher risk for certain malformations compared to other antiseizure medications?
+  - According to current guidelines, should folic acid be supplemented in all epilepsy patients that become pregnant?
+  - According to current guidelines, what would be preferred antiseizure medications for epilepsy patients planning to become pregnant?
+  - A 22-year-old female patient with epilepsy is currently in the process of optimizing her medication together with her treating neurologist. According to current guidelines, which anticonvulsant is most likely to cause neural tube defects if she were to become pregnant while continuing treatment with the drug?
+  - A 33-year-old female patient with epilepsy has had several seizures and has just learned that she is pregnant while undergoing therapy with a potentially teratogenic medication. The epilepsy is currently well-controlled. Should she definitely switch the anticonvulsant according to current guidelines?
+  - A 30-year-old female patient with epilepsy, well-controlled on phenobarbital, is planning to start a family. She is concerned about the potential risks associated with continuing her current medication during pregnancy. Are there specific malformation risks linked to phenobarbital compared to other antiseizure medications according to current guidelines?
+  - A 28-year-old female patient with epilepsy, currently planning a pregnancy, asks whether she should take folic acid as a supplement. Her current treatment regimen includes antiseizure medication, and she is seeking advice on whether supplementation is recommended for all women with epilepsy who wish to become or already are pregnant, according to current guidelines. 
+  - A 27-year-old female patient with well-controlled epilepsy is planning to conceive. She is currently on antiseizure medication and asks her neurologist which medications would be preferable during pregnancy to minimize risk to the baby, based on current guidelines. What would be the best approach to adjust her treatment in preparation for pregnancy?
+

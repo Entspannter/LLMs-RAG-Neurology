@@ -1,0 +1,19 @@
+documents_dir: ./documents/TicDisorders
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: tic_disorders
+
+questions:
+  - According to current guidelines, is watch and wait a recommended approach for children with tic disorders not suffering from functional impairment?
+  - According to current guidelines, what - except for watch and wait - are the first-line treatment options for children with tic disorders without functional impairment?
+  - According to current guidelines, are botulinum toxin injections recommended for the treatment of tics in some children?
+  - According to current guidelines, what is the recommended pharmaceutical treatment for children with tics and comorbid ADHD?
+  - According to current guidelines, what are prerequisites for considering deep brain stimulation for the treatment of resistant tics in Tourette Syndrome?
+  - The parents of an 8-year-old boy bring him to a pediatric neurologist after noticing the onset of tics over the past few months. The child seems largely unaffected by the tics and continues to perform well in school and social activities without any significant issues. The parents are worried but unsure if any treatment is necessary at this stage. What should the neurologist recommend regarding management, considering the current guidelines?
+  - The parents of a 10-year-old boy with tic disorders bring him to see a pediatric neurologist. The child is managing well at school and during social activities, but the parents are still concerned about his tics and want to know if there are any treatment options available that could help reduce them, even if they are not causing any major issues at present. What non-pharmacological options might the neurologist consider offering, according to current guidelines?
+  - The parents of a 16-year-old adolescent with persistent, bothersome motor tics visit the neurologist for further guidance. The tics, although not severely disabling, have localized and are affecting his daily comfort. Despite trying behavioral therapy and medication with limited success, they wonder if there are other treatment options that could help specifically with these bothersome localized movements. Given current guidelines, how should the neurologist approach this inquiry and what treatment considerations might be discussed?
+  - The parents of a 10-year-old boy with tic disorder and ADHD come to the clinic seeking advice on managing both conditions. The child's symptoms are causing issues at school, particularly with attention and behavior, in addition to his tics. They want to know if there are any treatment options that might help with both problems simultaneously. Based on current guidelines, what approach should the neurologist suggest?
+  - A 22-year-old male patient with a long-standing diagnosis of Tourette Syndrome presents with severe, treatment-resistant motor and vocal tics. Despite trying multiple medications, including antipsychotics, dopamine depleters, and other agents, as well as attempting behavioral therapy, his symptoms remain debilitating—particularly due to severe cervical tics that are self-injurious. The patient and his family are desperate to explore further interventions to improve his quality of life. Could intracranial stimulation be a viable option, and what steps should be taken to evaluate its appropriateness for this patient?
+

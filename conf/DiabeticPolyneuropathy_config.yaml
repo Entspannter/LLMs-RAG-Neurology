@@ -1,0 +1,18 @@
+documents_dir: ./documents/DiabeticPolyneuropathy
+model_name: gpt-4o-2024-11-20
+
+chunk_size: 500
+overlap: 100
+indication: diabetic_polyneuropathy
+
+questions:
+  - According to current guidelines, how and when should opioids be used in the treatment of diabetic polyneuropathy?
+  - According to current guidelines, should valproate/valproic acid be used in the treatment of diabetic polyneuropathy?
+  - According to current guidelines, what classes of oral medications have been shown to be effective in the treatment of diabetic polyneuropathy?
+  - According to current guidelines, what should patients be counseled to be the goal of the pharmacological therapy of diabetic polyneuropathy?
+  - According to current guidelines, what are options to offer patients with diabetic polyneuropathy except for oral therapies?
+  - A 62-year-old male with a history of type 2 diabetes presents to his primary care physician with progressively worsening pain in his feet and hands, consistent with diabetic polyneuropathy. He describes the pain as burning and difficult to tolerate, and first-line treatments, including gabapentin and lifestyle modifications, have provided limited relief. The physician considers whether opioids might be appropriate for pain management in this scenario. According to current guidelines, how and under what circumstances should opioids be utilized in the treatment of diabetic polyneuropathy?
+  - A 58-year-old female patient with painful diabetic neuropathy visits her neurologist for the first time seeking treatment options for her symptoms. She mentions that she has heard of valproic acid as a potential treatment and wonders if it could be a suitable option for her. Given that this is her initial inquiry into managing her neuropathy, what does current guidance suggest regarding the use of valproic acid as a first-line treatment?
+  - A 60-year-old male patient with a history of type 2 diabetes presents to his primary care physician with complaints of persistent burning pain in his feet, consistent with diabetic polyneuropathy. He asks what treatment options are available to alleviate his pain. The physician considers current guidelines and effective classes of oral medications. What classes of medications should be considered for managing the patient's painful diabetic neuropathy?
+  - A 65-year-old female patient with painful diabetic neuropathy presents to her physician for initiation of pharmacological therapy. She expresses hope that the treatment will completely eliminate her pain. How should the physician counsel the patient regarding the realistic goals of pharmacological therapy for painful diabetic neuropathy, according to current guidelines?
+  - A 59-year-old male patient with painful diabetic polyneuropathy reports that he prefers to avoid oral medications and asks if there are other effective treatment options available. What options should the physician offer to address the patient's symptoms, based on current guidelines for diabetic polyneuropathy?
